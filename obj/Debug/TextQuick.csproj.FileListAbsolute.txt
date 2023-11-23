@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TextQuick\bin\Debug\TextQuick.exe.config
+C:\Users\User\source\repos\TextQuick\bin\Debug\TextQuick.exe
+C:\Users\User\source\repos\TextQuick\bin\Debug\TextQuick.pdb
+C:\Users\User\source\repos\TextQuick\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\TextQuick\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\TextQuick\obj\Debug\TextQuick.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TextQuick\obj\Debug\TextQuick.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextQuick\obj\Debug\TextQuick.csproj.CopyComplete
+C:\Users\User\source\repos\TextQuick\obj\Debug\TextQuick.exe
+C:\Users\User\source\repos\TextQuick\obj\Debug\TextQuick.pdb
